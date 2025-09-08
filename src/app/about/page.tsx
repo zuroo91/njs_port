@@ -20,7 +20,7 @@ export default function AboutPage() {
           <div className="absolute bottom-6 left-6 right-6 text-white">
             <h1 className="text-2xl font-bold">Zuhro</h1>
             <p className="text-gray-200 text-sm">
-              Pelajar SMKN 8 Malang, kelas XI RPL C, sedang belajar menjadi web developer.
+              Pelajar SMKN 8 Malang, kelas XI RPL C, masih belajar menjadi web developer.
             </p>
           </div>
         </motion.div>
