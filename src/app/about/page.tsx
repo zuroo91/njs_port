@@ -13,7 +13,7 @@ export default function AboutPage() {
           className="flex-1 relative rounded-2xl overflow-hidden"
         >
           <img
-            src="/pfp.jpg"
+            src="/pfp.jpg" alt ="foto ku"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
@@ -42,7 +42,7 @@ export default function AboutPage() {
             <h2 className="text-xl font-bold mb-4 text-gray-900">Alasan</h2>
             <ul className="space-y-2 text-gray-600">
               <li>🔹 Ingin mengikuti perkembangan zaman</li>
-              <li>🔹 Bisa bikin project web & mobile</li>
+              <li>🔹 Bisa bikin project web atau mobile</li>
               <li>🔹 Ingin tau cara kerja suatu aplikasi</li>
             </ul>
           </div>
