@@ -13,7 +13,8 @@ export default function AboutPage() {
           className="flex-1 relative rounded-2xl overflow-hidden"
         >
           <img
-            src="/pfp.jpg" alt ="foto ku"
+            src="/pfp.jpg" 
+            alt="foto ku"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
