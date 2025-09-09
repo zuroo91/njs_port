@@ -41,9 +41,9 @@ export default function AboutPage() {
           <div className="bg-white rounded-2xl shadow-md p-6">
             <h2 className="text-xl font-bold mb-4 text-gray-900">Alasan</h2>
             <ul className="space-y-2 text-gray-600">
-              <li>🔹 Ingin mengikuti perkembangan zaman</li>
-              <li>🔹 Bisa bikin project web atau mobile</li>
-              <li>🔹 Ingin tau cara kerja suatu aplikasi</li>
+              <li> 1 Ingin mengikuti perkembangan zaman</li>
+              <li> 2 Bisa bikin project web atau mobile</li>
+              <li> 3 Ingin tau cara kerja suatu aplikasi</li>
             </ul>
           </div>
         </motion.div>
